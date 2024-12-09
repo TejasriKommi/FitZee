@@ -72,3 +72,23 @@ Before starting, ensure you have the following:
 2. Run the following command to verify the Flutter setup:
    ```bash
    flutter doctor
+
+---
+
+## **Step 4: Get the Code for FitZee Flutter App**
+
+### **1. Install Dependencies**
+Run the following command to install all necessary dependencies:
+```bash
+flutter pub get
+
+---
+
+## **5. Connect an Emulator or Device**
+
+Ensure you have an emulator running or an Android device connected via USB (with USB debugging enabled).
+
+- **To list available emulators:**
+  ```bash
+  flutter emulators
+
