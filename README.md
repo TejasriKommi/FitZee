@@ -67,3 +67,8 @@ Before starting, ensure you have the following:
    ```bash
    flutter doctor --android-licenses
 
+---
+
+2. Run the following command to verify the Flutter setup:
+   ```bash
+   flutter doctor
