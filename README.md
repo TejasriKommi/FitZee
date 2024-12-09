@@ -77,26 +77,34 @@ Before starting, ensure you have the following:
 
 ## **Step 4: Get the Code for FitZee Flutter App**
 
+
 ### **1. Install Dependencies**
 Run the following command to install all necessary dependencies:
-```bash
-flutter pub get
+    ```bash
+    flutter pub get
 
 ---
 
-## **step 5. Connect an Emulator or Device**
+
+## **Step 5. Connect an Emulator or Device**
 
 Ensure you have an emulator running or an Android device connected via USB (with USB debugging enabled).
 
 - **To list available emulators:**
-  ```bash
-  flutter emulators
+  `flutter emulators`
 
+- **To launch an emulator:**
+  `flutter emulators --launch <emulator-id>`
 
-### Features:
-- **Clear headings and subheadings** for each task.
-- **Code blocks** for commands for readability.
-- Dividers (`---`) separate the sections for better structure.
+- **To list connected devices:**
+  `flutter devices`
 
-Copy this into your README file, and it will look clean and professional! Let me know if you need additional tweaks. 😊
+---
 
+### **Step 6. Run the App**
+
+1. Launch your Android emulator or connect your device.
+2. Run the following command to start the application:
+   `flutter run`
+
+---
