@@ -84,11 +84,19 @@ flutter pub get
 
 ---
 
-## **5. Connect an Emulator or Device**
+## **step 5. Connect an Emulator or Device**
 
 Ensure you have an emulator running or an Android device connected via USB (with USB debugging enabled).
 
 - **To list available emulators:**
   ```bash
   flutter emulators
+
+
+### Features:
+- **Clear headings and subheadings** for each task.
+- **Code blocks** for commands for readability.
+- Dividers (`---`) separate the sections for better structure.
+
+Copy this into your README file, and it will look clean and professional! Let me know if you need additional tweaks. 😊
 
