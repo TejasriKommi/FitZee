@@ -71,8 +71,8 @@ Before starting, ensure you have the following:
 
 2. Run the following command to verify the Flutter setup:
    ```bash
-   flutter doctor
-
+   flutter doctor 
+   
 ---
 
 ## **Step 4: Get the Code for FitZee Flutter App**
